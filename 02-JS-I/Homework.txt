@@ -1,0 +1,7 @@
+-Variables: Las variables son cajitas, que contienen algo. Lo cual podremos usar a lo largo del desarrollo del proyecto, y ese algo, puede cambiar si nosotros queremos. Los objetos asignados a cada variable, pueden cambiar.
+-Strings: Las strings son bloques de texto. Esto solo muestra palabras, u oraciones.
+-Funciones: Las funciones son objetos que creamos para realizar acciones, y que esas acciones queden grabadas, entonces, para usar las acciones que queremos, solo debemos llamar a la funcion que hemos creado.
+	Estas funciones pueden contener "argumentos", si en los parentesis del nombre de nuestra funcion, agregamos una variable, luego podremos usar esa variable dentro de la funcion.
+	Las funciones, con sus respectivos argumentos, que nosotros creamos, nos devolveran lo que hemos pedido, utilizando la declaración return.
+-Declaraciones if: estas declaraciones, sirven para cuando tenemos varias opciones y dependiendo de la opcion que se tome, realice una accion u otra.
+-Valores booleanos: Estos son valores de verdadero o falso. 
